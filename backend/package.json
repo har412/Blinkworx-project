@@ -1,0 +1,19 @@
+{
+  "name": "rest_api_for_ecommerce_app_blinkworx",
+  "version": "1.0.0",
+  "description": "rest_api_for_ecommerce_app_blinkworx",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/har412/Blinkworx-project.git"
+  },
+  "author": "Harkirat Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/har412/Blinkworx-project/issues"
+  },
+  "homepage": "https://github.com/har412/Blinkworx-project#readme"
+}
