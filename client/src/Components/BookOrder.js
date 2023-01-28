@@ -9,27 +9,24 @@ function BookOrder() {
 
                 <form action="">
                     <div className='row'>
-                        <div className="col-lg-10">
+                        <div className="col col-12 col-lg-9 px-3">
                     <input type="text"  className='form-control' placeholder='Search Description'/>
                         </div>
-                        <div className="col-lg-2">
-                    <input type="submit" className='btn btn-outline-info' value="Search"  />
+                        <div className="col col-12 col-lg-2 px-0">
+                    <input type="submit" className='btn btn-outline-info form-control' value="Search"  />
 
                         </div>
                         </div>
                 </form> 
 
-                <div className="row">
-                    <div className="col-lg-1">
-
+                <div className="row-order">
                     <input type="checkbox" />
-                    </div>
-                    <div className="col-lg-11">
+                  
                         <div className="mybox">
                             <h6>Hp Laptop</h6>
                             <h6>This is a HP Laptop</h6>
                         </div>
-                    </div>
+                   
                 </div>
 
 
